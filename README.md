@@ -2,7 +2,7 @@
 
 Command Install Theme : 
 ```sh
-bash <(curl https://raw.githubusercontent.com/NdraHosting/main/install.sh)
+bash <(curl https://raw.githubusercontent.com/NdraHosting/NdraHosting/TemaNdraHosting/main/install.sh)
 ```
 
 
